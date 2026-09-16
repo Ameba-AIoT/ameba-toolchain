@@ -29,3 +29,5 @@ Release for 12.3.1v3 toolchain asdk 4568            2025/11/27
 Release for 10.3.1v7 toolchain asdk 4602            2026/04/21
 
 Release for 12.3.1v4 toolchain asdk 4600            2026/04/27
+
+Release for 10.3.1v8 toolchain asdk 4623 vsdk 4626  2026/09/16
